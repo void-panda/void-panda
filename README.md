@@ -20,6 +20,7 @@
 - ⚡ Fun fact **We never know if we never try🔥**
 
 ### Blogs posts
+https://blog-hamzan-wahyudi.vercel.app
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
